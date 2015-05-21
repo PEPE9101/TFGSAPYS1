@@ -41,8 +41,7 @@
         <script type="text/javascript">
             app.initialize();
         </script>
-	<a href="file:///home/mapjs/TFGSAPYS1/www/login.html" target="_self"> 
-	<input type="submit" src="///home/mapjs/TFGSAPYS1/www/index.html" value="LOGIN">  </a> 
+	<a href="file:///home/mapjs/TFGSAPYS1/www/login.html" target="_self"> <input type="submit" src="///home/mapjs/TFGSAPYS1/www/index.html" value="LOGIN">  </a> 
 
 	
     </body>
